@@ -9,10 +9,8 @@ A tauri-based backend framework template developed from [vue-xs-admin](https://g
 
 For a full demo of [vue-xs-admin](https://github.com/jsxiaosi/vue-xs-admin), switch to the branch [feature/vue-xs-admin](https://github.com/jsxiaosi/tauri-xs-admin/tree/feature/vue-xs-admin).
 
-## Preview
-
-- [GitHub Site](https://jsxiaosi.github.io/vue-xs-admin/)
-- [Gitee Site](https://jsxiaosi.gitee.io/vue-xs-admin)
+- [github site](https://jsxiaosi.github.io/mini-xs-admin/)
+- [gitee site](http://jsxiaosi.gitee.io/mini-xs-admin)
 
 Account: admin  
 Password: admin123
