@@ -35,7 +35,7 @@
   },
   "productName": "tauri-xs-admin",
   "mainBinaryName": "tauri-xs-admin",
-  "version": "0.0.1",
+  "version": "2.0.2",
   "identifier": "com.xsadmin.tauri",
   "plugins": {},
   "app": {
