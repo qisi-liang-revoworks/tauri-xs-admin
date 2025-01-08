@@ -11,10 +11,7 @@
     "copyright": "",
     "targets": "all",
     "externalBin": [],
-    "icon": [
-      "icons/logo-128x128.png",
-      "icons/logo.ico"
-    ],
+    "icon": ["icons/logo-128x128.png", "icons/logo.ico"],
     "windows": {
       "certificateThumbprint": null,
       "digestAlgorithm": "sha256",
